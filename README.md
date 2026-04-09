@@ -1,3 +1,4 @@
+![banner](./banner.png)
 ![Profile views](https://komarev.com/ghpvc/?username=dhanu6799&color=7F77DD&style=for-the-badge)
 
 # Hi there 👋, I'm Dhanu
